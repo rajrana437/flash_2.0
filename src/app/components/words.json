@@ -1,0 +1,3888 @@
+{
+    "sets": [
+        {
+            "setNumber": 1,
+            "words": [
+                {
+                    "frenchWord": "Sel",
+                    "englishWord": "Salt"
+                },
+                {
+                    "frenchWord": "Vouloir",
+                    "englishWord": "To want"
+                },
+                {
+                    "frenchWord": "Demander",
+                    "englishWord": "To ask"
+                },
+                {
+                    "frenchWord": "Cuisine",
+                    "englishWord": "Kitchen"
+                },
+                {
+                    "frenchWord": "D'abord",
+                    "englishWord": "First"
+                },
+                {
+                    "frenchWord": "Elles",
+                    "englishWord": "Them (feminine)"
+                },
+                {
+                    "frenchWord": "Ces",
+                    "englishWord": "These"
+                },
+                {
+                    "frenchWord": "Distribuer",
+                    "englishWord": "To distribute"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Comprendre",
+                    "englishWord": "To understand"
+                },
+                {
+                    "frenchWord": "Eau",
+                    "englishWord": "Water"
+                },
+                {
+                    "frenchWord": "Chez",
+                    "englishWord": "At (someone's place)"
+                },
+                {
+                    "frenchWord": "Dessous",
+                    "englishWord": "Underneath"
+                },
+                {
+                    "frenchWord": "Choisir",
+                    "englishWord": "To choose"
+                },
+                {
+                    "frenchWord": "Féliciter",
+                    "englishWord": "To congratulate"
+                },
+                {
+                    "frenchWord": "Habiter",
+                    "englishWord": "To live (somewhere)"
+                },
+                {
+                    "frenchWord": "Sale",
+                    "englishWord": "Dirty"
+                },
+                {
+                    "frenchWord": "Souvent",
+                    "englishWord": "Often"
+                },
+                {
+                    "frenchWord": "Noir",
+                    "englishWord": "Black"
+                },
+                {
+                    "frenchWord": "Imaginer",
+                    "englishWord": "To imagine"
+                },
+                {
+                    "frenchWord": "Partir",
+                    "englishWord": "To leave"
+                },
+                {
+                    "frenchWord": "Facile",
+                    "englishWord": "Easy"
+                },
+                {
+                    "frenchWord": "Claire",
+                    "englishWord": "Clear/Bright (feminine)"
+                },
+                {
+                    "frenchWord": "Fenêtre",
+                    "englishWord": "Window"
+                },
+                {
+                    "frenchWord": "Très",
+                    "englishWord": "Very"
+                },
+                {
+                    "frenchWord": "Votre",
+                    "englishWord": "Your (singular formal/plural)"
+                },
+                {
+                    "frenchWord": "Rire",
+                    "englishWord": "To laugh"
+                },
+                {
+                    "frenchWord": "Ce",
+                    "englishWord": "This (masculine singular)"
+                },
+                {
+                    "frenchWord": "Amie",
+                    "englishWord": "Friend (feminine)"
+                },
+                {
+                    "frenchWord": "Contente",
+                    "englishWord": "Happy/Content (feminine)"
+                },
+                {
+                    "frenchWord": "Perdre",
+                    "englishWord": "To lose"
+                },
+                {
+                    "frenchWord": "Mon",
+                    "englishWord": "My (masculine singular)"
+                },
+                {
+                    "frenchWord": "Mon",
+                    "englishWord": "My (masculine)"
+                },
+                {
+                    "frenchWord": "Lire",
+                    "englishWord": "To read"
+                },
+                {
+                    "frenchWord": "Apprendre",
+                    "englishWord": "To learn"
+                },
+                {
+                    "frenchWord": "Derrière",
+                    "englishWord": "Behind"
+                },
+                {
+                    "frenchWord": "Permettre",
+                    "englishWord": "To allow"
+                },
+                {
+                    "frenchWord": "Avoir",
+                    "englishWord": "To have"
+                },
+                {
+                    "frenchWord": "Hier",
+                    "englishWord": "Yesterday"
+                },
+                {
+                    "frenchWord": "Ceux",
+                    "englishWord": "Those (masculine)"
+                },
+                {
+                    "frenchWord": "Chercher",
+                    "englishWord": "To look for"
+                },
+                {
+                    "frenchWord": "Chercher",
+                    "englishWord": "To look for"
+                },
+                {
+                    "frenchWord": "Arriver",
+                    "englishWord": "To arrive"
+                },
+                {
+                    "frenchWord": "Pouvoir",
+                    "englishWord": "To be able to"
+                },
+                {
+                    "frenchWord": "Quelque",
+                    "englishWord": "Some"
+                },
+                {
+                    "frenchWord": "Même",
+                    "englishWord": "Same"
+                },
+                {
+                    "frenchWord": "Bien",
+                    "englishWord": "Good"
+                }
+            ]
+        },
+        {
+            "setNumber": 2,
+            "words": [
+                {
+                    "frenchWord": "Obéir",
+                    "englishWord": "To obey"
+                },
+                {
+                    "frenchWord": "Jus",
+                    "englishWord": "Juice"
+                },
+                {
+                    "frenchWord": "Voter",
+                    "englishWord": "To vote"
+                },
+                {
+                    "frenchWord": "Quitter",
+                    "englishWord": "To leave (someone or something)"
+                },
+                {
+                    "frenchWord": "Vers",
+                    "englishWord": "Toward"
+                },
+                {
+                    "frenchWord": "Plusieurs",
+                    "englishWord": "Several"
+                },
+                {
+                    "frenchWord": "Souffrir",
+                    "englishWord": "To suffer"
+                },
+                {
+                    "frenchWord": "Permettre",
+                    "englishWord": "To allow"
+                },
+                {
+                    "frenchWord": "Conduire",
+                    "englishWord": "To drive"
+                },
+                {
+                    "frenchWord": "Approuver",
+                    "englishWord": "To approve"
+                },
+                {
+                    "frenchWord": "Explorer",
+                    "englishWord": "To explore"
+                },
+                {
+                    "frenchWord": "Beau",
+                    "englishWord": "Beautiful (masculine)"
+                },
+                {
+                    "frenchWord": "Grandir",
+                    "englishWord": "To grow"
+                },
+                {
+                    "frenchWord": "Lui",
+                    "englishWord": "Him"
+                },
+                {
+                    "frenchWord": "Une",
+                    "englishWord": "A (feminine singular)"
+                },
+                {
+                    "frenchWord": "Beau",
+                    "englishWord": "Beautiful (masculine)"
+                },
+                {
+                    "frenchWord": "Parler",
+                    "englishWord": "To speak"
+                },
+                {
+                    "frenchWord": "Venir",
+                    "englishWord": "To come"
+                },
+                {
+                    "frenchWord": "Rire",
+                    "englishWord": "To laugh"
+                },
+                {
+                    "frenchWord": "Parfois",
+                    "englishWord": "Sometimes"
+                },
+                {
+                    "frenchWord": "Mauvaise",
+                    "englishWord": "Bad (feminine)"
+                },
+                {
+                    "frenchWord": "Chat",
+                    "englishWord": "Cat"
+                },
+                {
+                    "frenchWord": "Lentement",
+                    "englishWord": "Slowly"
+                },
+                {
+                    "frenchWord": "Achever",
+                    "englishWord": "To complete"
+                },
+                {
+                    "frenchWord": "Se souvenir",
+                    "englishWord": "To remember oneself"
+                },
+                {
+                    "frenchWord": "Trouver",
+                    "englishWord": "To find"
+                },
+                {
+                    "frenchWord": "Développer",
+                    "englishWord": "To develop"
+                },
+                {
+                    "frenchWord": "Tout",
+                    "englishWord": "Everything"
+                },
+                {
+                    "frenchWord": "Leur",
+                    "englishWord": "Their (singular)"
+                },
+                {
+                    "frenchWord": "Cuisiner",
+                    "englishWord": "To cook"
+                },
+                {
+                    "frenchWord": "École",
+                    "englishWord": "School"
+                },
+                {
+                    "frenchWord": "Enseigner",
+                    "englishWord": "To teach"
+                },
+                {
+                    "frenchWord": "Entourer",
+                    "englishWord": "To surround"
+                },
+                {
+                    "frenchWord": "Nettoyer",
+                    "englishWord": "To clean"
+                },
+                {
+                    "frenchWord": "Bonjour",
+                    "englishWord": "Hello"
+                },
+                {
+                    "frenchWord": "Pain",
+                    "englishWord": "Bread"
+                },
+                {
+                    "frenchWord": "Ou",
+                    "englishWord": "Or"
+                },
+                {
+                    "frenchWord": "Triste",
+                    "englishWord": "Sad"
+                },
+                {
+                    "frenchWord": "Respecter",
+                    "englishWord": "To respect"
+                },
+                {
+                    "frenchWord": "Soupe",
+                    "englishWord": "Soup"
+                },
+                {
+                    "frenchWord": "Mer",
+                    "englishWord": "Sea"
+                },
+                {
+                    "frenchWord": "Mais",
+                    "englishWord": "But"
+                },
+                {
+                    "frenchWord": "Laver",
+                    "englishWord": "To wash"
+                },
+                {
+                    "frenchWord": "Sans",
+                    "englishWord": "Without"
+                },
+                {
+                    "frenchWord": "Le",
+                    "englishWord": "The (masculine singular)"
+                },
+                {
+                    "frenchWord": "Étudier",
+                    "englishWord": "To study"
+                },
+                {
+                    "frenchWord": "Vieille",
+                    "englishWord": "Old (feminine)"
+                }
+            ]
+        },
+        {
+            "setNumber": 3,
+            "words": [
+                {
+                    "frenchWord": "Bientôt",
+                    "englishWord": "Soon"
+                },
+                {
+                    "frenchWord": "Oublier",
+                    "englishWord": "To forget"
+                },
+                {
+                    "frenchWord": "Laver",
+                    "englishWord": "To wash"
+                },
+                {
+                    "frenchWord": "Difficile",
+                    "englishWord": "Difficult"
+                },
+                {
+                    "frenchWord": "Je",
+                    "englishWord": "I"
+                },
+                {
+                    "frenchWord": "Préparer",
+                    "englishWord": "To prepare"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Rapide",
+                    "englishWord": "Fast"
+                },
+                {
+                    "frenchWord": "Sauter",
+                    "englishWord": "To jump"
+                },
+                {
+                    "frenchWord": "Un",
+                    "englishWord": "A (masculine)"
+                },
+                {
+                    "frenchWord": "Parce que",
+                    "englishWord": "Because"
+                },
+                {
+                    "frenchWord": "Nous",
+                    "englishWord": "We"
+                },
+                {
+                    "frenchWord": "Adapter",
+                    "englishWord": "To adapt"
+                },
+                {
+                    "frenchWord": "Ralentir",
+                    "englishWord": "To slow down"
+                },
+                {
+                    "frenchWord": "Un",
+                    "englishWord": "A/An (masculine)"
+                },
+                {
+                    "frenchWord": "Supporter",
+                    "englishWord": "To support"
+                },
+                {
+                    "frenchWord": "Forêt",
+                    "englishWord": "Forest"
+                },
+                {
+                    "frenchWord": "Autre",
+                    "englishWord": "Other"
+                },
+                {
+                    "frenchWord": "Là",
+                    "englishWord": "There"
+                },
+                {
+                    "frenchWord": "Vos",
+                    "englishWord": "Your (plural, formal)"
+                },
+                {
+                    "frenchWord": "Répondre",
+                    "englishWord": "To reply"
+                },
+                {
+                    "frenchWord": "Courir",
+                    "englishWord": "To run"
+                },
+                {
+                    "frenchWord": "Notre",
+                    "englishWord": "Our (singular)"
+                },
+                {
+                    "frenchWord": "Attendre",
+                    "englishWord": "To wait"
+                },
+                {
+                    "frenchWord": "Rêver",
+                    "englishWord": "To dream"
+                },
+                {
+                    "frenchWord": "Riche",
+                    "englishWord": "Rich"
+                },
+                {
+                    "frenchWord": "Investir",
+                    "englishWord": "To invest"
+                },
+                {
+                    "frenchWord": "Forte",
+                    "englishWord": "Strong (feminine)"
+                },
+                {
+                    "frenchWord": "Tard",
+                    "englishWord": "Late"
+                },
+                {
+                    "frenchWord": "Savoir",
+                    "englishWord": "To know (a fact)"
+                },
+                {
+                    "frenchWord": "Explorer",
+                    "englishWord": "To explore"
+                },
+                {
+                    "frenchWord": "Descendre",
+                    "englishWord": "To go down"
+                },
+                {
+                    "frenchWord": "Venir",
+                    "englishWord": "To come"
+                },
+                {
+                    "frenchWord": "Entendre",
+                    "englishWord": "To hear"
+                },
+                {
+                    "frenchWord": "Protéger",
+                    "englishWord": "To protect"
+                },
+                {
+                    "frenchWord": "Habiter",
+                    "englishWord": "To live"
+                },
+                {
+                    "frenchWord": "Aujourd'hui",
+                    "englishWord": "Today"
+                },
+                {
+                    "frenchWord": "Sur",
+                    "englishWord": "On"
+                },
+                {
+                    "frenchWord": "Tes",
+                    "englishWord": "Your (plural, informal)"
+                },
+                {
+                    "frenchWord": "Devant",
+                    "englishWord": "In front of"
+                },
+                {
+                    "frenchWord": "Aider",
+                    "englishWord": "To help"
+                },
+                {
+                    "frenchWord": "Manger",
+                    "englishWord": "To eat"
+                },
+                {
+                    "frenchWord": "Contribuer",
+                    "englishWord": "To contribute"
+                },
+                {
+                    "frenchWord": "Nier",
+                    "englishWord": "To deny"
+                },
+                {
+                    "frenchWord": "Difficile",
+                    "englishWord": "Difficult"
+                },
+                {
+                    "frenchWord": "Travail",
+                    "englishWord": "Work"
+                },
+                {
+                    "frenchWord": "Tard",
+                    "englishWord": "Late"
+                }
+            ]
+        },
+        {
+            "setNumber": 4,
+            "words": [
+                {
+                    "frenchWord": "Maison",
+                    "englishWord": "House"
+                },
+                {
+                    "frenchWord": "Lourde",
+                    "englishWord": "Heavy (feminine)"
+                },
+                {
+                    "frenchWord": "Garder",
+                    "englishWord": "To keep"
+                },
+                {
+                    "frenchWord": "Grand",
+                    "englishWord": "Big/Tall (masculine)"
+                },
+                {
+                    "frenchWord": "Jardin",
+                    "englishWord": "Garden"
+                },
+                {
+                    "frenchWord": "Savoir",
+                    "englishWord": "To know"
+                },
+                {
+                    "frenchWord": "Quand même",
+                    "englishWord": "Anyway"
+                },
+                {
+                    "frenchWord": "Devant",
+                    "englishWord": "In front of"
+                },
+                {
+                    "frenchWord": "Sur",
+                    "englishWord": "On"
+                },
+                {
+                    "frenchWord": "Aussi",
+                    "englishWord": "Also"
+                },
+                {
+                    "frenchWord": "Chanter",
+                    "englishWord": "To sing"
+                },
+                {
+                    "frenchWord": "Dormir",
+                    "englishWord": "To sleep"
+                },
+                {
+                    "frenchWord": "Cacher",
+                    "englishWord": "To hide"
+                },
+                {
+                    "frenchWord": "Haut",
+                    "englishWord": "High"
+                },
+                {
+                    "frenchWord": "Répondre",
+                    "englishWord": "To answer"
+                },
+                {
+                    "frenchWord": "Quel",
+                    "englishWord": "Which (masculine)"
+                },
+                {
+                    "frenchWord": "Ici",
+                    "englishWord": "Here"
+                },
+                {
+                    "frenchWord": "Ici",
+                    "englishWord": "Here"
+                },
+                {
+                    "frenchWord": "Et",
+                    "englishWord": "And"
+                },
+                {
+                    "frenchWord": "Adieu",
+                    "englishWord": "Farewell"
+                },
+                {
+                    "frenchWord": "Lente",
+                    "englishWord": "Slow (feminine)"
+                },
+                {
+                    "frenchWord": "Cuisiner",
+                    "englishWord": "To cook"
+                },
+                {
+                    "frenchWord": "Travailler",
+                    "englishWord": "To work"
+                },
+                {
+                    "frenchWord": "Réunir",
+                    "englishWord": "To gather"
+                },
+                {
+                    "frenchWord": "Nos",
+                    "englishWord": "Our (plural)"
+                },
+                {
+                    "frenchWord": "Acheter",
+                    "englishWord": "To buy"
+                },
+                {
+                    "frenchWord": "Tu",
+                    "englishWord": "You (informal singular)"
+                },
+                {
+                    "frenchWord": "Aimer",
+                    "englishWord": "To love"
+                },
+                {
+                    "frenchWord": "Éteindre",
+                    "englishWord": "To turn off"
+                },
+                {
+                    "frenchWord": "Nulle part",
+                    "englishWord": "Nowhere"
+                },
+                {
+                    "frenchWord": "À droite de",
+                    "englishWord": "To the right of"
+                },
+                {
+                    "frenchWord": "Lourd",
+                    "englishWord": "Heavy"
+                },
+                {
+                    "frenchWord": "Tes",
+                    "englishWord": "Your (plural)"
+                },
+                {
+                    "frenchWord": "Détester",
+                    "englishWord": "To detest"
+                },
+                {
+                    "frenchWord": "Nager",
+                    "englishWord": "To swim"
+                },
+                {
+                    "frenchWord": "Où",
+                    "englishWord": "Where"
+                },
+                {
+                    "frenchWord": "Jeune",
+                    "englishWord": "Young"
+                },
+                {
+                    "frenchWord": "Aller",
+                    "englishWord": "To go"
+                },
+                {
+                    "frenchWord": "Vin",
+                    "englishWord": "Wine"
+                },
+                {
+                    "frenchWord": "Je",
+                    "englishWord": "I"
+                },
+                {
+                    "frenchWord": "Perdre",
+                    "englishWord": "To lose"
+                },
+                {
+                    "frenchWord": "Crier",
+                    "englishWord": "To shout"
+                },
+                {
+                    "frenchWord": "Rivière",
+                    "englishWord": "River"
+                },
+                {
+                    "frenchWord": "Finir",
+                    "englishWord": "To finish"
+                },
+                {
+                    "frenchWord": "Entre",
+                    "englishWord": "Between"
+                },
+                {
+                    "frenchWord": "Tout",
+                    "englishWord": "Everything"
+                },
+                {
+                    "frenchWord": "Quelle",
+                    "englishWord": "Which (feminine)"
+                }
+            ]
+        },
+        {
+            "setNumber": 5,
+            "words": [
+                {
+                    "frenchWord": "Entendre",
+                    "englishWord": "To hear"
+                },
+                {
+                    "frenchWord": "Toujours",
+                    "englishWord": "Always"
+                },
+                {
+                    "frenchWord": "Alors",
+                    "englishWord": "So"
+                },
+                {
+                    "frenchWord": "Ou",
+                    "englishWord": "Or"
+                },
+                {
+                    "frenchWord": "La",
+                    "englishWord": "The (feminine singular)"
+                },
+                {
+                    "frenchWord": "Interdire",
+                    "englishWord": "To forbid"
+                },
+                {
+                    "frenchWord": "En face de",
+                    "englishWord": "Opposite"
+                },
+                {
+                    "frenchWord": "Famille",
+                    "englishWord": "Family"
+                },
+                {
+                    "frenchWord": "Elles",
+                    "englishWord": "They (feminine)"
+                },
+                {
+                    "frenchWord": "Bleu",
+                    "englishWord": "Blue"
+                },
+                {
+                    "frenchWord": "Arrêter",
+                    "englishWord": "To stop"
+                },
+                {
+                    "frenchWord": "Déjà",
+                    "englishWord": "Already"
+                },
+                {
+                    "frenchWord": "Se lever",
+                    "englishWord": "To get up"
+                },
+                {
+                    "frenchWord": "Rapide",
+                    "englishWord": "Fast"
+                },
+                {
+                    "frenchWord": "Admirer",
+                    "englishWord": "To admire"
+                },
+                {
+                    "frenchWord": "Nettoyer",
+                    "englishWord": "To clean"
+                },
+                {
+                    "frenchWord": "Comment",
+                    "englishWord": "How"
+                },
+                {
+                    "frenchWord": "Leurs",
+                    "englishWord": "Their (plural)"
+                },
+                {
+                    "frenchWord": "Garder",
+                    "englishWord": "To keep"
+                },
+                {
+                    "frenchWord": "Attendre",
+                    "englishWord": "To wait"
+                },
+                {
+                    "frenchWord": "Souvenir",
+                    "englishWord": "To remember"
+                },
+                {
+                    "frenchWord": "Chambre",
+                    "englishWord": "Room"
+                },
+                {
+                    "frenchWord": "Beaucoup",
+                    "englishWord": "A lot/Many"
+                },
+                {
+                    "frenchWord": "Chanter",
+                    "englishWord": "To sing"
+                },
+                {
+                    "frenchWord": "Aimer",
+                    "englishWord": "To like/Love"
+                },
+                {
+                    "frenchWord": "Donner",
+                    "englishWord": "To give"
+                },
+                {
+                    "frenchWord": "Salade",
+                    "englishWord": "Salad"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Ma",
+                    "englishWord": "My (feminine singular)"
+                },
+                {
+                    "frenchWord": "Alors que",
+                    "englishWord": "While"
+                },
+                {
+                    "frenchWord": "Aimer",
+                    "englishWord": "To love"
+                },
+                {
+                    "frenchWord": "Le",
+                    "englishWord": "The (masculine)"
+                },
+                {
+                    "frenchWord": "Comparer",
+                    "englishWord": "To compare"
+                },
+                {
+                    "frenchWord": "Table",
+                    "englishWord": "Table"
+                },
+                {
+                    "frenchWord": "Rapide",
+                    "englishWord": "Fast"
+                },
+                {
+                    "frenchWord": "Bon",
+                    "englishWord": "Good (masculine)"
+                },
+                {
+                    "frenchWord": "Convaincre",
+                    "englishWord": "To convince"
+                },
+                {
+                    "frenchWord": "Huile",
+                    "englishWord": "Oil"
+                },
+                {
+                    "frenchWord": "Quand",
+                    "englishWord": "When"
+                },
+                {
+                    "frenchWord": "Des",
+                    "englishWord": "Some"
+                },
+                {
+                    "frenchWord": "Changer",
+                    "englishWord": "To change"
+                },
+                {
+                    "frenchWord": "Nous",
+                    "englishWord": "Us/We"
+                },
+                {
+                    "frenchWord": "Avoir",
+                    "englishWord": "To have"
+                },
+                {
+                    "frenchWord": "Encourager",
+                    "englishWord": "To encourage"
+                },
+                {
+                    "frenchWord": "Bien que",
+                    "englishWord": "Although"
+                },
+                {
+                    "frenchWord": "Anticiper",
+                    "englishWord": "To anticipate"
+                },
+                {
+                    "frenchWord": "École",
+                    "englishWord": "School"
+                }
+            ]
+        },
+        {
+            "setNumber": 6,
+            "words": [
+                {
+                    "frenchWord": "Ensuite",
+                    "englishWord": "Next"
+                },
+                {
+                    "frenchWord": "Compléter",
+                    "englishWord": "To complete"
+                },
+                {
+                    "frenchWord": "Dessert",
+                    "englishWord": "Dessert"
+                },
+                {
+                    "frenchWord": "En bas",
+                    "englishWord": "Downstairs/Below"
+                },
+                {
+                    "frenchWord": "Mal",
+                    "englishWord": "Bad"
+                },
+                {
+                    "frenchWord": "Aller",
+                    "englishWord": "To go"
+                },
+                {
+                    "frenchWord": "La",
+                    "englishWord": "The (feminine)"
+                },
+                {
+                    "frenchWord": "Tirer",
+                    "englishWord": "To pull/Shoot"
+                },
+                {
+                    "frenchWord": "Voler",
+                    "englishWord": "To fly/To steal"
+                },
+                {
+                    "frenchWord": "Vivre",
+                    "englishWord": "To live"
+                },
+                {
+                    "frenchWord": "Réviser",
+                    "englishWord": "To review"
+                },
+                {
+                    "frenchWord": "Étudier",
+                    "englishWord": "To study"
+                },
+                {
+                    "frenchWord": "Beaucoup",
+                    "englishWord": "A lot"
+                },
+                {
+                    "frenchWord": "Toujours",
+                    "englishWord": "Always"
+                },
+                {
+                    "frenchWord": "Sinon",
+                    "englishWord": "Otherwise"
+                },
+                {
+                    "frenchWord": "Écrire",
+                    "englishWord": "To write"
+                },
+                {
+                    "frenchWord": "Cette",
+                    "englishWord": "This (feminine)"
+                },
+                {
+                    "frenchWord": "Chercher",
+                    "englishWord": "To search"
+                },
+                {
+                    "frenchWord": "Bonsoir",
+                    "englishWord": "Good evening"
+                },
+                {
+                    "frenchWord": "Lire",
+                    "englishWord": "To read"
+                },
+                {
+                    "frenchWord": "Salle de bain",
+                    "englishWord": "Bathroom"
+                },
+                {
+                    "frenchWord": "Bientôt",
+                    "englishWord": "Soon"
+                },
+                {
+                    "frenchWord": "Rêver",
+                    "englishWord": "To dream"
+                },
+                {
+                    "frenchWord": "Accepter",
+                    "englishWord": "To accept"
+                },
+                {
+                    "frenchWord": "Pont",
+                    "englishWord": "Bridge"
+                },
+                {
+                    "frenchWord": "Soleil",
+                    "englishWord": "Sun"
+                },
+                {
+                    "frenchWord": "Jeune",
+                    "englishWord": "Young"
+                },
+                {
+                    "frenchWord": "Vos",
+                    "englishWord": "Your (plural formal/plural)"
+                },
+                {
+                    "frenchWord": "Retourner",
+                    "englishWord": "To return"
+                },
+                {
+                    "frenchWord": "Mourir",
+                    "englishWord": "To die"
+                },
+                {
+                    "frenchWord": "Nettoyer",
+                    "englishWord": "To clean"
+                },
+                {
+                    "frenchWord": "Impossible",
+                    "englishWord": "Impossible"
+                },
+                {
+                    "frenchWord": "Lent",
+                    "englishWord": "Slow (masculine)"
+                },
+                {
+                    "frenchWord": "Faire",
+                    "englishWord": "To do"
+                },
+                {
+                    "frenchWord": "Remercier",
+                    "englishWord": "To thank"
+                },
+                {
+                    "frenchWord": "Rien",
+                    "englishWord": "Nothing"
+                },
+                {
+                    "frenchWord": "Quelqu'un",
+                    "englishWord": "Someone"
+                },
+                {
+                    "frenchWord": "Corriger",
+                    "englishWord": "To correct"
+                },
+                {
+                    "frenchWord": "Quelque chose",
+                    "englishWord": "Something"
+                },
+                {
+                    "frenchWord": "Elle",
+                    "englishWord": "She"
+                },
+                {
+                    "frenchWord": "Penser",
+                    "englishWord": "To think"
+                },
+                {
+                    "frenchWord": "Autant",
+                    "englishWord": "As much"
+                },
+                {
+                    "frenchWord": "Voir",
+                    "englishWord": "To see"
+                },
+                {
+                    "frenchWord": "Ils",
+                    "englishWord": "They (masculine plural)"
+                },
+                {
+                    "frenchWord": "Autour",
+                    "englishWord": "Around"
+                },
+                {
+                    "frenchWord": "Partager",
+                    "englishWord": "To share"
+                },
+                {
+                    "frenchWord": "Parler",
+                    "englishWord": "To speak"
+                }
+            ]
+        },
+        {
+            "setNumber": 7,
+            "words": [
+                {
+                    "frenchWord": "Près",
+                    "englishWord": "Near"
+                },
+                {
+                    "frenchWord": "Rien",
+                    "englishWord": "Nothing"
+                },
+                {
+                    "frenchWord": "Grande",
+                    "englishWord": "Big/Tall (feminine)"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Salut",
+                    "englishWord": "Hi"
+                },
+                {
+                    "frenchWord": "Emprunter",
+                    "englishWord": "To borrow"
+                },
+                {
+                    "frenchWord": "Après",
+                    "englishWord": "After"
+                },
+                {
+                    "frenchWord": "Moi",
+                    "englishWord": "Me"
+                },
+                {
+                    "frenchWord": "S'asseoir",
+                    "englishWord": "To sit down"
+                },
+                {
+                    "frenchWord": "Dernier",
+                    "englishWord": "Last (masculine singular)"
+                },
+                {
+                    "frenchWord": "Les",
+                    "englishWord": "The (plural)"
+                },
+                {
+                    "frenchWord": "Nager",
+                    "englishWord": "To swim"
+                },
+                {
+                    "frenchWord": "Université",
+                    "englishWord": "University"
+                },
+                {
+                    "frenchWord": "Travailler",
+                    "englishWord": "To work"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Ou",
+                    "englishWord": "Or"
+                },
+                {
+                    "frenchWord": "Craindre",
+                    "englishWord": "To fear"
+                },
+                {
+                    "frenchWord": "Sortir",
+                    "englishWord": "To go out"
+                },
+                {
+                    "frenchWord": "Heureuse",
+                    "englishWord": "Happy (feminine)"
+                },
+                {
+                    "frenchWord": "Aider",
+                    "englishWord": "To help"
+                },
+                {
+                    "frenchWord": "Hôpital",
+                    "englishWord": "Hospital"
+                },
+                {
+                    "frenchWord": "Ces",
+                    "englishWord": "These (plural)"
+                },
+                {
+                    "frenchWord": "Exprimer",
+                    "englishWord": "To express"
+                },
+                {
+                    "frenchWord": "Beau",
+                    "englishWord": "Beautiful (masculine)"
+                },
+                {
+                    "frenchWord": "Jeune",
+                    "englishWord": "Young"
+                },
+                {
+                    "frenchWord": "Pardonner",
+                    "englishWord": "To forgive"
+                },
+                {
+                    "frenchWord": "Poire",
+                    "englishWord": "Pear"
+                },
+                {
+                    "frenchWord": "Ressentir",
+                    "englishWord": "To feel deeply"
+                },
+                {
+                    "frenchWord": "Trouver",
+                    "englishWord": "To find"
+                },
+                {
+                    "frenchWord": "Écrire",
+                    "englishWord": "To write"
+                },
+                {
+                    "frenchWord": "Petite",
+                    "englishWord": "Small (feminine)"
+                },
+                {
+                    "frenchWord": "Petit",
+                    "englishWord": "Small"
+                },
+                {
+                    "frenchWord": "Mes",
+                    "englishWord": "My (plural)"
+                },
+                {
+                    "frenchWord": "Alors",
+                    "englishWord": "Then"
+                },
+                {
+                    "frenchWord": "Montrer",
+                    "englishWord": "To show"
+                },
+                {
+                    "frenchWord": "Sur",
+                    "englishWord": "On"
+                },
+                {
+                    "frenchWord": "Apprendre",
+                    "englishWord": "To learn"
+                },
+                {
+                    "frenchWord": "Danser",
+                    "englishWord": "To dance"
+                },
+                {
+                    "frenchWord": "Trop",
+                    "englishWord": "Too much"
+                },
+                {
+                    "frenchWord": "Parce que",
+                    "englishWord": "Because"
+                },
+                {
+                    "frenchWord": "Jaune",
+                    "englishWord": "Yellow"
+                },
+                {
+                    "frenchWord": "Pour",
+                    "englishWord": "For"
+                },
+                {
+                    "frenchWord": "Premier",
+                    "englishWord": "First (masculine singular)"
+                },
+                {
+                    "frenchWord": "Plaire",
+                    "englishWord": "To please"
+                },
+                {
+                    "frenchWord": "Ses",
+                    "englishWord": "His/Her (plural)"
+                },
+                {
+                    "frenchWord": "Fraise",
+                    "englishWord": "Strawberry"
+                },
+                {
+                    "frenchWord": "Entre",
+                    "englishWord": "Between"
+                }
+            ]
+        },
+        {
+            "setNumber": 8,
+            "words": [
+                {
+                    "frenchWord": "Ses",
+                    "englishWord": "His/Her (plural)"
+                },
+                {
+                    "frenchWord": "Pardon",
+                    "englishWord": "Sorry"
+                },
+                {
+                    "frenchWord": "Cacher",
+                    "englishWord": "To hide"
+                },
+                {
+                    "frenchWord": "Bon",
+                    "englishWord": "Good (masculine)"
+                },
+                {
+                    "frenchWord": "Poisson",
+                    "englishWord": "Fish"
+                },
+                {
+                    "frenchWord": "Ami",
+                    "englishWord": "Friend"
+                },
+                {
+                    "frenchWord": "Moins",
+                    "englishWord": "Less"
+                },
+                {
+                    "frenchWord": "Acheter",
+                    "englishWord": "To buy"
+                },
+                {
+                    "frenchWord": "En haut",
+                    "englishWord": "Upstairs/Above"
+                },
+                {
+                    "frenchWord": "Baigner",
+                    "englishWord": "To bathe"
+                },
+                {
+                    "frenchWord": "Elle",
+                    "englishWord": "Her"
+                },
+                {
+                    "frenchWord": "C'est-à-dire",
+                    "englishWord": "That is to say"
+                },
+                {
+                    "frenchWord": "Donner",
+                    "englishWord": "To give"
+                },
+                {
+                    "frenchWord": "Sans",
+                    "englishWord": "Without"
+                },
+                {
+                    "frenchWord": "Allumer",
+                    "englishWord": "To turn on"
+                },
+                {
+                    "frenchWord": "Écrire",
+                    "englishWord": "To write"
+                },
+                {
+                    "frenchWord": "Froid",
+                    "englishWord": "Cold"
+                },
+                {
+                    "frenchWord": "Vouloir",
+                    "englishWord": "To want"
+                },
+                {
+                    "frenchWord": "Sous",
+                    "englishWord": "Under"
+                },
+                {
+                    "frenchWord": "Sans",
+                    "englishWord": "Without"
+                },
+                {
+                    "frenchWord": "Son",
+                    "englishWord": "His/Her (masculine singular)"
+                },
+                {
+                    "frenchWord": "Pousser",
+                    "englishWord": "To push"
+                },
+                {
+                    "frenchWord": "Voyager",
+                    "englishWord": "To travel"
+                },
+                {
+                    "frenchWord": "Écouter",
+                    "englishWord": "To listen"
+                },
+                {
+                    "frenchWord": "Pouvoir",
+                    "englishWord": "To be able to"
+                },
+                {
+                    "frenchWord": "Mes",
+                    "englishWord": "My (plural)"
+                },
+                {
+                    "frenchWord": "Regarder",
+                    "englishWord": "To watch"
+                },
+                {
+                    "frenchWord": "Bonne",
+                    "englishWord": "Good (feminine)"
+                },
+                {
+                    "frenchWord": "Contre",
+                    "englishWord": "Against"
+                },
+                {
+                    "frenchWord": "Construire",
+                    "englishWord": "To build"
+                },
+                {
+                    "frenchWord": "Aujourd'hui",
+                    "englishWord": "Today"
+                },
+                {
+                    "frenchWord": "Éviter",
+                    "englishWord": "To avoid"
+                },
+                {
+                    "frenchWord": "Personne",
+                    "englishWord": "Person"
+                },
+                {
+                    "frenchWord": "Demain",
+                    "englishWord": "Tomorrow"
+                },
+                {
+                    "frenchWord": "Expliquer",
+                    "englishWord": "To explain"
+                },
+                {
+                    "frenchWord": "Écouter",
+                    "englishWord": "To listen"
+                },
+                {
+                    "frenchWord": "Arrêter",
+                    "englishWord": "To stop"
+                },
+                {
+                    "frenchWord": "Son",
+                    "englishWord": "His/Her (masculine singular)"
+                },
+                {
+                    "frenchWord": "Visiter",
+                    "englishWord": "To visit"
+                },
+                {
+                    "frenchWord": "Comprendre",
+                    "englishWord": "To understand"
+                },
+                {
+                    "frenchWord": "Ta",
+                    "englishWord": "Your (feminine, informal)"
+                },
+                {
+                    "frenchWord": "Sauver",
+                    "englishWord": "To save"
+                },
+                {
+                    "frenchWord": "Nous",
+                    "englishWord": "We"
+                },
+                {
+                    "frenchWord": "Voiture",
+                    "englishWord": "Car"
+                },
+                {
+                    "frenchWord": "Ouvrir",
+                    "englishWord": "To open"
+                },
+                {
+                    "frenchWord": "Obéir",
+                    "englishWord": "To obey"
+                },
+                {
+                    "frenchWord": "Étudier",
+                    "englishWord": "To study"
+                }
+            ]
+        },
+        {
+            "setNumber": 9,
+            "words": [
+                {
+                    "frenchWord": "Fermer",
+                    "englishWord": "To close"
+                },
+                {
+                    "frenchWord": "Nouveau",
+                    "englishWord": "New (masculine)"
+                },
+                {
+                    "frenchWord": "Un",
+                    "englishWord": "A/One (masculine)"
+                },
+                {
+                    "frenchWord": "Maintenir",
+                    "englishWord": "To maintain"
+                },
+                {
+                    "frenchWord": "À côté de",
+                    "englishWord": "Next to"
+                },
+                {
+                    "frenchWord": "Soupirer",
+                    "englishWord": "To sigh"
+                },
+                {
+                    "frenchWord": "Détester",
+                    "englishWord": "To hate"
+                },
+                {
+                    "frenchWord": "Pourquoi",
+                    "englishWord": "Why"
+                },
+                {
+                    "frenchWord": "Puisque",
+                    "englishWord": "Since"
+                },
+                {
+                    "frenchWord": "Vieille",
+                    "englishWord": "Old (feminine)"
+                },
+                {
+                    "frenchWord": "Vie",
+                    "englishWord": "Life"
+                },
+                {
+                    "frenchWord": "Avant",
+                    "englishWord": "Before"
+                },
+                {
+                    "frenchWord": "Ta",
+                    "englishWord": "Your (informal, feminine singular)"
+                },
+                {
+                    "frenchWord": "Boire",
+                    "englishWord": "To drink"
+                },
+                {
+                    "frenchWord": "Qui",
+                    "englishWord": "Who"
+                },
+                {
+                    "frenchWord": "Apporter",
+                    "englishWord": "To bring"
+                },
+                {
+                    "frenchWord": "Lent",
+                    "englishWord": "Slow (masculine)"
+                },
+                {
+                    "frenchWord": "Se dépêcher",
+                    "englishWord": "To hurry"
+                },
+                {
+                    "frenchWord": "Bonsoir",
+                    "englishWord": "Good evening"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Chien",
+                    "englishWord": "Dog"
+                },
+                {
+                    "frenchWord": "Répéter",
+                    "englishWord": "To repeat"
+                },
+                {
+                    "frenchWord": "Amener",
+                    "englishWord": "To bring (someone)"
+                },
+                {
+                    "frenchWord": "Mais",
+                    "englishWord": "But"
+                },
+                {
+                    "frenchWord": "Sombre",
+                    "englishWord": "Dark"
+                },
+                {
+                    "frenchWord": "Promettre",
+                    "englishWord": "To promise"
+                },
+                {
+                    "frenchWord": "Offrir",
+                    "englishWord": "To offer"
+                },
+                {
+                    "frenchWord": "Réparer",
+                    "englishWord": "To repair"
+                },
+                {
+                    "frenchWord": "Coordonner",
+                    "englishWord": "To coordinate"
+                },
+                {
+                    "frenchWord": "Monter",
+                    "englishWord": "To go up"
+                },
+                {
+                    "frenchWord": "Par",
+                    "englishWord": "By"
+                },
+                {
+                    "frenchWord": "Facile",
+                    "englishWord": "Easy"
+                },
+                {
+                    "frenchWord": "Si",
+                    "englishWord": "If"
+                },
+                {
+                    "frenchWord": "Lire",
+                    "englishWord": "To read"
+                },
+                {
+                    "frenchWord": "Sa",
+                    "englishWord": "His/Her (feminine singular)"
+                },
+                {
+                    "frenchWord": "Des",
+                    "englishWord": "Some"
+                },
+                {
+                    "frenchWord": "Essayer",
+                    "englishWord": "To try"
+                },
+                {
+                    "frenchWord": "Ces",
+                    "englishWord": "These/Those"
+                },
+                {
+                    "frenchWord": "Savoir",
+                    "englishWord": "To know"
+                },
+                {
+                    "frenchWord": "Se battre",
+                    "englishWord": "To fight"
+                },
+                {
+                    "frenchWord": "Au revoir",
+                    "englishWord": "Goodbye"
+                },
+                {
+                    "frenchWord": "Écrire",
+                    "englishWord": "To write"
+                },
+                {
+                    "frenchWord": "Rester",
+                    "englishWord": "To stay"
+                },
+                {
+                    "frenchWord": "Demander",
+                    "englishWord": "To ask"
+                },
+                {
+                    "frenchWord": "Boire",
+                    "englishWord": "To drink"
+                },
+                {
+                    "frenchWord": "Prendre",
+                    "englishWord": "To take"
+                },
+                {
+                    "frenchWord": "Lac",
+                    "englishWord": "Lake"
+                }
+            ]
+        },
+        {
+            "setNumber": 10,
+            "words": [
+                {
+                    "frenchWord": "Que",
+                    "englishWord": "What"
+                },
+                {
+                    "frenchWord": "Insister",
+                    "englishWord": "To insist"
+                },
+                {
+                    "frenchWord": "Créer",
+                    "englishWord": "To create"
+                },
+                {
+                    "frenchWord": "Maison",
+                    "englishWord": "House"
+                },
+                {
+                    "frenchWord": "Le",
+                    "englishWord": "The (masculine)"
+                },
+                {
+                    "frenchWord": "Boire",
+                    "englishWord": "To drink"
+                },
+                {
+                    "frenchWord": "Magasin",
+                    "englishWord": "Store"
+                },
+                {
+                    "frenchWord": "Ressentir",
+                    "englishWord": "To feel (emotion)"
+                },
+                {
+                    "frenchWord": "Dormir",
+                    "englishWord": "To sleep"
+                },
+                {
+                    "frenchWord": "Inquiéter",
+                    "englishWord": "To worry"
+                },
+                {
+                    "frenchWord": "Être",
+                    "englishWord": "To be"
+                },
+                {
+                    "frenchWord": "Tout de suite",
+                    "englishWord": "Right away"
+                },
+                {
+                    "frenchWord": "Fruit",
+                    "englishWord": "Fruit"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Des",
+                    "englishWord": "Some"
+                },
+                {
+                    "frenchWord": "Près de",
+                    "englishWord": "Near"
+                },
+                {
+                    "frenchWord": "De toute façon",
+                    "englishWord": "Anyway"
+                },
+                {
+                    "frenchWord": "Jamais",
+                    "englishWord": "Never"
+                },
+                {
+                    "frenchWord": "Grand",
+                    "englishWord": "Big"
+                },
+                {
+                    "frenchWord": "Examiner",
+                    "englishWord": "To examine"
+                },
+                {
+                    "frenchWord": "Prier",
+                    "englishWord": "To pray"
+                },
+                {
+                    "frenchWord": "Croire",
+                    "englishWord": "To believe"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Construire",
+                    "englishWord": "To build"
+                },
+                {
+                    "frenchWord": "Peu",
+                    "englishWord": "Little (amount)"
+                },
+                {
+                    "frenchWord": "S'échapper",
+                    "englishWord": "To escape"
+                },
+                {
+                    "frenchWord": "Devant",
+                    "englishWord": "In front of"
+                },
+                {
+                    "frenchWord": "Chanter",
+                    "englishWord": "To sing"
+                },
+                {
+                    "frenchWord": "Bienvenue",
+                    "englishWord": "Welcome"
+                },
+                {
+                    "frenchWord": "Fonder",
+                    "englishWord": "To found/establish"
+                },
+                {
+                    "frenchWord": "Temps",
+                    "englishWord": "Time"
+                },
+                {
+                    "frenchWord": "Son",
+                    "englishWord": "His/Her (masculine)"
+                },
+                {
+                    "frenchWord": "Recevoir",
+                    "englishWord": "To receive"
+                },
+                {
+                    "frenchWord": "Chercher",
+                    "englishWord": "To search"
+                },
+                {
+                    "frenchWord": "Par rapport à",
+                    "englishWord": "In relation to"
+                },
+                {
+                    "frenchWord": "Observer",
+                    "englishWord": "To observe"
+                },
+                {
+                    "frenchWord": "Pendant",
+                    "englishWord": "During"
+                },
+                {
+                    "frenchWord": "Courir",
+                    "englishWord": "To run"
+                },
+                {
+                    "frenchWord": "Enfin",
+                    "englishWord": "Finally"
+                },
+                {
+                    "frenchWord": "Donner",
+                    "englishWord": "To give"
+                },
+                {
+                    "frenchWord": "Porte",
+                    "englishWord": "Door"
+                },
+                {
+                    "frenchWord": "Laver",
+                    "englishWord": "To wash"
+                },
+                {
+                    "frenchWord": "Ressentir",
+                    "englishWord": "To feel"
+                },
+                {
+                    "frenchWord": "Recevoir",
+                    "englishWord": "To receive"
+                },
+                {
+                    "frenchWord": "Facile",
+                    "englishWord": "Easy"
+                },
+                {
+                    "frenchWord": "Tomber",
+                    "englishWord": "To fall"
+                },
+                {
+                    "frenchWord": "Comprendre",
+                    "englishWord": "To understand"
+                }
+            ]
+        },
+        {
+            "setNumber": 11,
+            "words": [
+                {
+                    "frenchWord": "Ouvrir",
+                    "englishWord": "To open"
+                },
+                {
+                    "frenchWord": "Prendre",
+                    "englishWord": "To take"
+                },
+                {
+                    "frenchWord": "Soutenir",
+                    "englishWord": "To support (emotionally)"
+                },
+                {
+                    "frenchWord": "Derrière",
+                    "englishWord": "Behind"
+                },
+                {
+                    "frenchWord": "Quand",
+                    "englishWord": "When"
+                },
+                {
+                    "frenchWord": "Bonne",
+                    "englishWord": "Good (feminine)"
+                },
+                {
+                    "frenchWord": "Être",
+                    "englishWord": "To be"
+                },
+                {
+                    "frenchWord": "Bas",
+                    "englishWord": "Low"
+                },
+                {
+                    "frenchWord": "Jusqu'à",
+                    "englishWord": "Until"
+                },
+                {
+                    "frenchWord": "Leur",
+                    "englishWord": "Their (singular)"
+                },
+                {
+                    "frenchWord": "Réagir",
+                    "englishWord": "To react"
+                },
+                {
+                    "frenchWord": "Si",
+                    "englishWord": "If"
+                },
+                {
+                    "frenchWord": "Rien",
+                    "englishWord": "Nothing"
+                },
+                {
+                    "frenchWord": "Chaque",
+                    "englishWord": "Each"
+                },
+                {
+                    "frenchWord": "Vide",
+                    "englishWord": "Empty"
+                },
+                {
+                    "frenchWord": "Toi",
+                    "englishWord": "You (informal)"
+                },
+                {
+                    "frenchWord": "Quand",
+                    "englishWord": "When"
+                },
+                {
+                    "frenchWord": "Gérer",
+                    "englishWord": "To manage"
+                },
+                {
+                    "frenchWord": "Aider",
+                    "englishWord": "To help"
+                },
+                {
+                    "frenchWord": "Mentir",
+                    "englishWord": "To lie"
+                },
+                {
+                    "frenchWord": "Donner",
+                    "englishWord": "To give"
+                },
+                {
+                    "frenchWord": "Voir",
+                    "englishWord": "To see"
+                },
+                {
+                    "frenchWord": "Poivre",
+                    "englishWord": "Pepper"
+                },
+                {
+                    "frenchWord": "Leurs",
+                    "englishWord": "Their (plural)"
+                },
+                {
+                    "frenchWord": "Prétendre",
+                    "englishWord": "To claim"
+                },
+                {
+                    "frenchWord": "Sourire",
+                    "englishWord": "To smile"
+                },
+                {
+                    "frenchWord": "Travailler",
+                    "englishWord": "To work"
+                },
+                {
+                    "frenchWord": "Pourtant",
+                    "englishWord": "Yet"
+                },
+                {
+                    "frenchWord": "Personne",
+                    "englishWord": "No one"
+                },
+                {
+                    "frenchWord": "Rouge",
+                    "englishWord": "Red"
+                },
+                {
+                    "frenchWord": "Parfois",
+                    "englishWord": "Sometimes"
+                },
+                {
+                    "frenchWord": "Porter",
+                    "englishWord": "To carry/Wear"
+                },
+                {
+                    "frenchWord": "Ensemble",
+                    "englishWord": "Together"
+                },
+                {
+                    "frenchWord": "Accueillir",
+                    "englishWord": "To welcome"
+                },
+                {
+                    "frenchWord": "La",
+                    "englishWord": "The (feminine)"
+                },
+                {
+                    "frenchWord": "Trop",
+                    "englishWord": "Too much"
+                },
+                {
+                    "frenchWord": "À côté",
+                    "englishWord": "Next to"
+                },
+                {
+                    "frenchWord": "Enlever",
+                    "englishWord": "To remove"
+                },
+                {
+                    "frenchWord": "Un autre",
+                    "englishWord": "Another"
+                },
+                {
+                    "frenchWord": "Leur",
+                    "englishWord": "Their (singular)"
+                },
+                {
+                    "frenchWord": "Sucre",
+                    "englishWord": "Sugar"
+                },
+                {
+                    "frenchWord": "Plage",
+                    "englishWord": "Beach"
+                },
+                {
+                    "frenchWord": "Aller",
+                    "englishWord": "To go"
+                },
+                {
+                    "frenchWord": "Manger",
+                    "englishWord": "To eat"
+                },
+                {
+                    "frenchWord": "Moi",
+                    "englishWord": "Me"
+                },
+                {
+                    "frenchWord": "Construire",
+                    "englishWord": "To build"
+                },
+                {
+                    "frenchWord": "Dire",
+                    "englishWord": "To say"
+                }
+            ]
+        },
+        {
+            "setNumber": 12,
+            "words": [
+                {
+                    "frenchWord": "Même si",
+                    "englishWord": "Even if"
+                },
+                {
+                    "frenchWord": "Clarifier",
+                    "englishWord": "To clarify"
+                },
+                {
+                    "frenchWord": "Les",
+                    "englishWord": "The (plural)"
+                },
+                {
+                    "frenchWord": "Célébrer",
+                    "englishWord": "To celebrate"
+                },
+                {
+                    "frenchWord": "Dans",
+                    "englishWord": "In"
+                },
+                {
+                    "frenchWord": "Prouver",
+                    "englishWord": "To prove"
+                },
+                {
+                    "frenchWord": "Fermer",
+                    "englishWord": "To close"
+                },
+                {
+                    "frenchWord": "Donc",
+                    "englishWord": "Therefore"
+                },
+                {
+                    "frenchWord": "Lui",
+                    "englishWord": "Him"
+                },
+                {
+                    "frenchWord": "Dormir",
+                    "englishWord": "To sleep"
+                },
+                {
+                    "frenchWord": "Rire",
+                    "englishWord": "To laugh"
+                },
+                {
+                    "frenchWord": "Partager",
+                    "englishWord": "To share"
+                },
+                {
+                    "frenchWord": "Ni",
+                    "englishWord": "Neither"
+                },
+                {
+                    "frenchWord": "Suggérer",
+                    "englishWord": "To suggest"
+                },
+                {
+                    "frenchWord": "Elle",
+                    "englishWord": "She"
+                },
+                {
+                    "frenchWord": "Pleine",
+                    "englishWord": "Full (feminine)"
+                },
+                {
+                    "frenchWord": "Vendre",
+                    "englishWord": "To sell"
+                },
+                {
+                    "frenchWord": "Au-dessus",
+                    "englishWord": "Above"
+                },
+                {
+                    "frenchWord": "Eux",
+                    "englishWord": "Them (masculine)"
+                },
+                {
+                    "frenchWord": "Gagner",
+                    "englishWord": "To win/Earn"
+                },
+                {
+                    "frenchWord": "Appeler",
+                    "englishWord": "To call"
+                },
+                {
+                    "frenchWord": "Qui",
+                    "englishWord": "Who"
+                },
+                {
+                    "frenchWord": "Ma",
+                    "englishWord": "My (feminine singular)"
+                },
+                {
+                    "frenchWord": "Traduire",
+                    "englishWord": "To translate"
+                },
+                {
+                    "frenchWord": "Dans",
+                    "englishWord": "In"
+                },
+                {
+                    "frenchWord": "Casser",
+                    "englishWord": "To break"
+                },
+                {
+                    "frenchWord": "Rapide",
+                    "englishWord": "Fast"
+                },
+                {
+                    "frenchWord": "Notre",
+                    "englishWord": "Our (singular)"
+                },
+                {
+                    "frenchWord": "Décider",
+                    "englishWord": "To decide"
+                },
+                {
+                    "frenchWord": "Lire",
+                    "englishWord": "To read"
+                },
+                {
+                    "frenchWord": "Mettre",
+                    "englishWord": "To put"
+                },
+                {
+                    "frenchWord": "Souhaiter",
+                    "englishWord": "To wish"
+                },
+                {
+                    "frenchWord": "Cette",
+                    "englishWord": "This/That (feminine)"
+                },
+                {
+                    "frenchWord": "Cela",
+                    "englishWord": "That"
+                },
+                {
+                    "frenchWord": "Souhaiter",
+                    "englishWord": "To wish"
+                },
+                {
+                    "frenchWord": "Il",
+                    "englishWord": "He"
+                },
+                {
+                    "frenchWord": "Ici-bas",
+                    "englishWord": "Down here"
+                },
+                {
+                    "frenchWord": "Manger",
+                    "englishWord": "To eat"
+                },
+                {
+                    "frenchWord": "Hésiter",
+                    "englishWord": "To hesitate"
+                },
+                {
+                    "frenchWord": "Demain",
+                    "englishWord": "Tomorrow"
+                },
+                {
+                    "frenchWord": "Combien",
+                    "englishWord": "How much/How many"
+                },
+                {
+                    "frenchWord": "Trop",
+                    "englishWord": "Too/Too much"
+                },
+                {
+                    "frenchWord": "Certaine",
+                    "englishWord": "Certain (feminine singular)"
+                },
+                {
+                    "frenchWord": "Mauvaise",
+                    "englishWord": "Bad (feminine)"
+                },
+                {
+                    "frenchWord": "Appeler",
+                    "englishWord": "To call"
+                },
+                {
+                    "frenchWord": "Contre",
+                    "englishWord": "Against"
+                },
+                {
+                    "frenchWord": "Accepter",
+                    "englishWord": "To accept"
+                }
+            ]
+        },
+        {
+            "setNumber": 13,
+            "words": [
+                {
+                    "frenchWord": "Promettre",
+                    "englishWord": "To promise"
+                },
+                {
+                    "frenchWord": "Entre",
+                    "englishWord": "Between"
+                },
+                {
+                    "frenchWord": "Ton",
+                    "englishWord": "Your (informal, masculine singular)"
+                },
+                {
+                    "frenchWord": "Rue",
+                    "englishWord": "Street"
+                },
+                {
+                    "frenchWord": "Montagne",
+                    "englishWord": "Mountain"
+                },
+                {
+                    "frenchWord": "Toi",
+                    "englishWord": "You (informal)"
+                },
+                {
+                    "frenchWord": "Gagner",
+                    "englishWord": "To win"
+                },
+                {
+                    "frenchWord": "Faire",
+                    "englishWord": "To do"
+                },
+                {
+                    "frenchWord": "Réfléchir",
+                    "englishWord": "To reflect"
+                },
+                {
+                    "frenchWord": "Facile",
+                    "englishWord": "Easy"
+                },
+                {
+                    "frenchWord": "Rarement",
+                    "englishWord": "Rarely"
+                },
+                {
+                    "frenchWord": "Répondre",
+                    "englishWord": "To answer"
+                },
+                {
+                    "frenchWord": "Parler",
+                    "englishWord": "To speak"
+                },
+                {
+                    "frenchWord": "Manger",
+                    "englishWord": "To eat"
+                },
+                {
+                    "frenchWord": "Penser",
+                    "englishWord": "To think"
+                },
+                {
+                    "frenchWord": "Examiner",
+                    "englishWord": "To examine"
+                },
+                {
+                    "frenchWord": "Sous peu",
+                    "englishWord": "Shortly"
+                },
+                {
+                    "frenchWord": "Demander",
+                    "englishWord": "To ask"
+                },
+                {
+                    "frenchWord": "Regarder",
+                    "englishWord": "To watch"
+                },
+                {
+                    "frenchWord": "Maintenant",
+                    "englishWord": "Now"
+                },
+                {
+                    "frenchWord": "Pays",
+                    "englishWord": "Country"
+                },
+                {
+                    "frenchWord": "Accuser",
+                    "englishWord": "To accuse"
+                },
+                {
+                    "frenchWord": "Papier",
+                    "englishWord": "Paper"
+                },
+                {
+                    "frenchWord": "Supporter",
+                    "englishWord": "To endure"
+                },
+                {
+                    "frenchWord": "Bonjour",
+                    "englishWord": "Good morning"
+                },
+                {
+                    "frenchWord": "Pomme",
+                    "englishWord": "Apple"
+                },
+                {
+                    "frenchWord": "Décourager",
+                    "englishWord": "To discourage"
+                },
+                {
+                    "frenchWord": "Chaise",
+                    "englishWord": "Chair"
+                },
+                {
+                    "frenchWord": "Difficile",
+                    "englishWord": "Difficult"
+                },
+                {
+                    "frenchWord": "Manger",
+                    "englishWord": "To eat"
+                },
+                {
+                    "frenchWord": "Déduire",
+                    "englishWord": "To deduce"
+                },
+                {
+                    "frenchWord": "Petit",
+                    "englishWord": "Small (masculine)"
+                },
+                {
+                    "frenchWord": "Légère",
+                    "englishWord": "Light (feminine)"
+                },
+                {
+                    "frenchWord": "Leurs",
+                    "englishWord": "Their (plural)"
+                },
+                {
+                    "frenchWord": "Triste",
+                    "englishWord": "Sad"
+                },
+                {
+                    "frenchWord": "Ville",
+                    "englishWord": "City"
+                },
+                {
+                    "frenchWord": "Remplacer",
+                    "englishWord": "To replace"
+                },
+                {
+                    "frenchWord": "Toujours",
+                    "englishWord": "Always"
+                },
+                {
+                    "frenchWord": "Afin de",
+                    "englishWord": "In order to"
+                },
+                {
+                    "frenchWord": "Aider",
+                    "englishWord": "To help"
+                },
+                {
+                    "frenchWord": "Déposer",
+                    "englishWord": "To drop off"
+                },
+                {
+                    "frenchWord": "Persuader",
+                    "englishWord": "To persuade"
+                },
+                {
+                    "frenchWord": "Comment",
+                    "englishWord": "How"
+                },
+                {
+                    "frenchWord": "Où",
+                    "englishWord": "Where"
+                },
+                {
+                    "frenchWord": "Ce",
+                    "englishWord": "This (masculine)"
+                },
+                {
+                    "frenchWord": "Le",
+                    "englishWord": "The (masculine)"
+                },
+                {
+                    "frenchWord": "Des",
+                    "englishWord": "Some (plural)"
+                }
+            ]
+        },
+        {
+            "setNumber": 14,
+            "words": [
+                {
+                    "frenchWord": "Contente",
+                    "englishWord": "Content/Happy (feminine)"
+                },
+                {
+                    "frenchWord": "Revivre",
+                    "englishWord": "To relive"
+                },
+                {
+                    "frenchWord": "Concevoir",
+                    "englishWord": "To design"
+                },
+                {
+                    "frenchWord": "Étudier",
+                    "englishWord": "To study"
+                },
+                {
+                    "frenchWord": "Découvrir",
+                    "englishWord": "To discover"
+                },
+                {
+                    "frenchWord": "Jeune",
+                    "englishWord": "Young"
+                },
+                {
+                    "frenchWord": "Vert",
+                    "englishWord": "Green"
+                },
+                {
+                    "frenchWord": "Accomplir",
+                    "englishWord": "To accomplish"
+                },
+                {
+                    "frenchWord": "Souvent",
+                    "englishWord": "Often"
+                },
+                {
+                    "frenchWord": "Sa",
+                    "englishWord": "His/Her (feminine)"
+                },
+                {
+                    "frenchWord": "Dire",
+                    "englishWord": "To say"
+                },
+                {
+                    "frenchWord": "Salut",
+                    "englishWord": "Hi"
+                },
+                {
+                    "frenchWord": "Punir",
+                    "englishWord": "To punish"
+                },
+                {
+                    "frenchWord": "Crier",
+                    "englishWord": "To shout"
+                },
+                {
+                    "frenchWord": "Faible",
+                    "englishWord": "Weak"
+                },
+                {
+                    "frenchWord": "Cependant",
+                    "englishWord": "However"
+                },
+                {
+                    "frenchWord": "Propre",
+                    "englishWord": "Clean"
+                },
+                {
+                    "frenchWord": "La",
+                    "englishWord": "The (feminine singular)"
+                },
+                {
+                    "frenchWord": "Votre",
+                    "englishWord": "Your (formal/plural, singular)"
+                },
+                {
+                    "frenchWord": "Cette",
+                    "englishWord": "This (feminine singular)"
+                },
+                {
+                    "frenchWord": "Avec",
+                    "englishWord": "With"
+                },
+                {
+                    "frenchWord": "Couper",
+                    "englishWord": "To cut"
+                },
+                {
+                    "frenchWord": "Peu",
+                    "englishWord": "Little/Few"
+                },
+                {
+                    "frenchWord": "Froid",
+                    "englishWord": "Cold"
+                },
+                {
+                    "frenchWord": "Perdre",
+                    "englishWord": "To lose"
+                },
+                {
+                    "frenchWord": "Prêter",
+                    "englishWord": "To lend"
+                },
+                {
+                    "frenchWord": "Fermer",
+                    "englishWord": "To close"
+                },
+                {
+                    "frenchWord": "Mon",
+                    "englishWord": "My (masculine singular)"
+                },
+                {
+                    "frenchWord": "Ville",
+                    "englishWord": "City"
+                },
+                {
+                    "frenchWord": "Là",
+                    "englishWord": "There"
+                },
+                {
+                    "frenchWord": "Voyager",
+                    "englishWord": "To travel"
+                },
+                {
+                    "frenchWord": "Rue",
+                    "englishWord": "Street"
+                },
+                {
+                    "frenchWord": "Belle",
+                    "englishWord": "Beautiful (feminine)"
+                },
+                {
+                    "frenchWord": "Ta",
+                    "englishWord": "Your (feminine singular)"
+                },
+                {
+                    "frenchWord": "Avec",
+                    "englishWord": "With"
+                },
+                {
+                    "frenchWord": "Simplifier",
+                    "englishWord": "To simplify"
+                },
+                {
+                    "frenchWord": "Lune",
+                    "englishWord": "Moon"
+                },
+                {
+                    "frenchWord": "Rester",
+                    "englishWord": "To stay"
+                },
+                {
+                    "frenchWord": "Recommander",
+                    "englishWord": "To recommend"
+                },
+                {
+                    "frenchWord": "Merci",
+                    "englishWord": "Thank you"
+                },
+                {
+                    "frenchWord": "Au-dessous",
+                    "englishWord": "Below"
+                },
+                {
+                    "frenchWord": "Penser",
+                    "englishWord": "To think"
+                },
+                {
+                    "frenchWord": "Souvent",
+                    "englishWord": "Often"
+                },
+                {
+                    "frenchWord": "Résumer",
+                    "englishWord": "To summarize"
+                },
+                {
+                    "frenchWord": "Réussir",
+                    "englishWord": "To succeed"
+                },
+                {
+                    "frenchWord": "Vieux",
+                    "englishWord": "Old (masculine)"
+                },
+                {
+                    "frenchWord": "Faire",
+                    "englishWord": "To do/make"
+                }
+            ]
+        },
+        {
+            "setNumber": 15,
+            "words": [
+                {
+                    "frenchWord": "Disperser",
+                    "englishWord": "To scatter"
+                },
+                {
+                    "frenchWord": "Protéger",
+                    "englishWord": "To protect"
+                },
+                {
+                    "frenchWord": "Chaque",
+                    "englishWord": "Each/Every"
+                },
+                {
+                    "frenchWord": "Régler",
+                    "englishWord": "To settle"
+                },
+                {
+                    "frenchWord": "Vendre",
+                    "englishWord": "To sell"
+                },
+                {
+                    "frenchWord": "Depuis",
+                    "englishWord": "Since"
+                },
+                {
+                    "frenchWord": "Vite",
+                    "englishWord": "Quickly"
+                },
+                {
+                    "frenchWord": "Loin",
+                    "englishWord": "Far"
+                },
+                {
+                    "frenchWord": "Apprendre",
+                    "englishWord": "To learn"
+                },
+                {
+                    "frenchWord": "Douter",
+                    "englishWord": "To doubt"
+                },
+                {
+                    "frenchWord": "Autoriser",
+                    "englishWord": "To authorize"
+                },
+                {
+                    "frenchWord": "Cahier",
+                    "englishWord": "Notebook"
+                },
+                {
+                    "frenchWord": "Obtenir",
+                    "englishWord": "To obtain"
+                },
+                {
+                    "frenchWord": "Une",
+                    "englishWord": "A/An (feminine)"
+                },
+                {
+                    "frenchWord": "Cela",
+                    "englishWord": "That (neutral)"
+                },
+                {
+                    "frenchWord": "Belle",
+                    "englishWord": "Beautiful (feminine)"
+                },
+                {
+                    "frenchWord": "Elle",
+                    "englishWord": "Her"
+                },
+                {
+                    "frenchWord": "Ciel",
+                    "englishWord": "Sky"
+                },
+                {
+                    "frenchWord": "Hier",
+                    "englishWord": "Yesterday"
+                },
+                {
+                    "frenchWord": "Lourd",
+                    "englishWord": "Heavy (masculine)"
+                },
+                {
+                    "frenchWord": "Comme",
+                    "englishWord": "As"
+                },
+                {
+                    "frenchWord": "Pauvre",
+                    "englishWord": "Poor"
+                },
+                {
+                    "frenchWord": "Il",
+                    "englishWord": "He"
+                },
+                {
+                    "frenchWord": "Porter",
+                    "englishWord": "To carry"
+                },
+                {
+                    "frenchWord": "Apercevoir",
+                    "englishWord": "To notice"
+                },
+                {
+                    "frenchWord": "Expliquer",
+                    "englishWord": "To explain"
+                },
+                {
+                    "frenchWord": "À gauche de",
+                    "englishWord": "To the left of"
+                },
+                {
+                    "frenchWord": "Aider",
+                    "englishWord": "To help"
+                },
+                {
+                    "frenchWord": "Belle",
+                    "englishWord": "Beautiful (feminine)"
+                },
+                {
+                    "frenchWord": "Triste",
+                    "englishWord": "Sad"
+                },
+                {
+                    "frenchWord": "Proposer",
+                    "englishWord": "To propose"
+                },
+                {
+                    "frenchWord": "Chaud",
+                    "englishWord": "Hot"
+                },
+                {
+                    "frenchWord": "Une",
+                    "englishWord": "A/An (feminine)"
+                },
+                {
+                    "frenchWord": "Voir",
+                    "englishWord": "To see"
+                },
+                {
+                    "frenchWord": "Dernière",
+                    "englishWord": "Last (feminine singular)"
+                },
+                {
+                    "frenchWord": "Derrière",
+                    "englishWord": "Behind"
+                },
+                {
+                    "frenchWord": "Utiliser",
+                    "englishWord": "To use"
+                },
+                {
+                    "frenchWord": "Ouvrir",
+                    "englishWord": "To open"
+                },
+                {
+                    "frenchWord": "Un",
+                    "englishWord": "A (masculine singular)"
+                },
+                {
+                    "frenchWord": "Tôt",
+                    "englishWord": "Early"
+                },
+                {
+                    "frenchWord": "En dehors",
+                    "englishWord": "Outside"
+                },
+                {
+                    "frenchWord": "Tu",
+                    "englishWord": "You (informal)"
+                },
+                {
+                    "frenchWord": "Légume",
+                    "englishWord": "Vegetable"
+                },
+                {
+                    "frenchWord": "Jouer",
+                    "englishWord": "To play"
+                },
+                {
+                    "frenchWord": "Doucement",
+                    "englishWord": "Softly"
+                },
+                {
+                    "frenchWord": "Livre",
+                    "englishWord": "Book"
+                },
+                {
+                    "frenchWord": "Quelque chose",
+                    "englishWord": "Something"
+                }
+            ]
+        },
+        {
+            "setNumber": 16,
+            "words": [
+                {
+                    "frenchWord": "Courir",
+                    "englishWord": "To run"
+                },
+                {
+                    "frenchWord": "Vieux",
+                    "englishWord": "Old (masculine)"
+                },
+                {
+                    "frenchWord": "Cuisiner",
+                    "englishWord": "To cook"
+                },
+                {
+                    "frenchWord": "Votre",
+                    "englishWord": "Your (singular, formal)"
+                },
+                {
+                    "frenchWord": "Voir",
+                    "englishWord": "To see"
+                },
+                {
+                    "frenchWord": "Nos",
+                    "englishWord": "Our (plural)"
+                },
+                {
+                    "frenchWord": "Empêcher",
+                    "englishWord": "To prevent"
+                },
+                {
+                    "frenchWord": "Près de",
+                    "englishWord": "Near"
+                },
+                {
+                    "frenchWord": "Mauvais",
+                    "englishWord": "Bad (masculine)"
+                },
+                {
+                    "frenchWord": "Maintenant",
+                    "englishWord": "Now"
+                },
+                {
+                    "frenchWord": "Lente",
+                    "englishWord": "Slow (feminine)"
+                },
+                {
+                    "frenchWord": "Rester",
+                    "englishWord": "To stay"
+                },
+                {
+                    "frenchWord": "Visiter",
+                    "englishWord": "To visit"
+                },
+                {
+                    "frenchWord": "Rendre",
+                    "englishWord": "To return (something)"
+                },
+                {
+                    "frenchWord": "Ses",
+                    "englishWord": "His/Her (plural)"
+                },
+                {
+                    "frenchWord": "Animer",
+                    "englishWord": "To animate/lead"
+                },
+                {
+                    "frenchWord": "Chère",
+                    "englishWord": "Expensive (feminine)"
+                },
+                {
+                    "frenchWord": "Oui",
+                    "englishWord": "Yes"
+                },
+                {
+                    "frenchWord": "Chercher",
+                    "englishWord": "To search"
+                },
+                {
+                    "frenchWord": "Le",
+                    "englishWord": "The (masculine singular)"
+                },
+                {
+                    "frenchWord": "Rencontrer",
+                    "englishWord": "To meet"
+                },
+                {
+                    "frenchWord": "Boire",
+                    "englishWord": "To drink"
+                },
+                {
+                    "frenchWord": "Vinaigre",
+                    "englishWord": "Vinegar"
+                },
+                {
+                    "frenchWord": "Courir",
+                    "englishWord": "To run"
+                },
+                {
+                    "frenchWord": "Courir",
+                    "englishWord": "To run"
+                },
+                {
+                    "frenchWord": "Vieux",
+                    "englishWord": "Old (masculine)"
+                },
+                {
+                    "frenchWord": "Vivre",
+                    "englishWord": "To live"
+                },
+                {
+                    "frenchWord": "Fromage",
+                    "englishWord": "Cheese"
+                },
+                {
+                    "frenchWord": "Refaire",
+                    "englishWord": "To redo"
+                },
+                {
+                    "frenchWord": "Depuis",
+                    "englishWord": "Since"
+                },
+                {
+                    "frenchWord": "Jamais",
+                    "englishWord": "Never"
+                },
+                {
+                    "frenchWord": "Savoir",
+                    "englishWord": "To know"
+                },
+                {
+                    "frenchWord": "Constituer",
+                    "englishWord": "To constitute"
+                },
+                {
+                    "frenchWord": "Préférer",
+                    "englishWord": "To prefer"
+                },
+                {
+                    "frenchWord": "Après",
+                    "englishWord": "After"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Complimenter",
+                    "englishWord": "To compliment"
+                },
+                {
+                    "frenchWord": "Léger",
+                    "englishWord": "Light (weight)"
+                },
+                {
+                    "frenchWord": "Croire",
+                    "englishWord": "To believe"
+                },
+                {
+                    "frenchWord": "Jeter",
+                    "englishWord": "To throw"
+                },
+                {
+                    "frenchWord": "Fermer",
+                    "englishWord": "To close"
+                },
+                {
+                    "frenchWord": "Ma",
+                    "englishWord": "My (feminine)"
+                },
+                {
+                    "frenchWord": "Partir",
+                    "englishWord": "To leave"
+                },
+                {
+                    "frenchWord": "Nager",
+                    "englishWord": "To swim"
+                },
+                {
+                    "frenchWord": "Celui",
+                    "englishWord": "That one (masculine)"
+                },
+                {
+                    "frenchWord": "Travailler",
+                    "englishWord": "To work"
+                },
+                {
+                    "frenchWord": "Connaître",
+                    "englishWord": "To know (a person)"
+                }
+            ]
+        },
+        {
+            "setNumber": 17,
+            "words": [
+                {
+                    "frenchWord": "Finir",
+                    "englishWord": "To finish"
+                },
+                {
+                    "frenchWord": "À côté de",
+                    "englishWord": "Next to"
+                },
+                {
+                    "frenchWord": "Diffuser",
+                    "englishWord": "To broadcast"
+                },
+                {
+                    "frenchWord": "Refuser",
+                    "englishWord": "To refuse"
+                },
+                {
+                    "frenchWord": "Jamais",
+                    "englishWord": "Never"
+                },
+                {
+                    "frenchWord": "Une",
+                    "englishWord": "A (feminine)"
+                },
+                {
+                    "frenchWord": "Descendre",
+                    "englishWord": "To go down"
+                },
+                {
+                    "frenchWord": "Trouver",
+                    "englishWord": "To find"
+                },
+                {
+                    "frenchWord": "Élever",
+                    "englishWord": "To raise"
+                },
+                {
+                    "frenchWord": "Réfléchir",
+                    "englishWord": "To think"
+                },
+                {
+                    "frenchWord": "Non",
+                    "englishWord": "No"
+                },
+                {
+                    "frenchWord": "Et",
+                    "englishWord": "And"
+                },
+                {
+                    "frenchWord": "Emporter",
+                    "englishWord": "To take (something)"
+                },
+                {
+                    "frenchWord": "Entre",
+                    "englishWord": "Between"
+                },
+                {
+                    "frenchWord": "Sourire",
+                    "englishWord": "To smile"
+                },
+                {
+                    "frenchWord": "Regarder",
+                    "englishWord": "To watch"
+                },
+                {
+                    "frenchWord": "Réaliser",
+                    "englishWord": "To realize"
+                },
+                {
+                    "frenchWord": "Les",
+                    "englishWord": "The (plural)"
+                },
+                {
+                    "frenchWord": "Trouver",
+                    "englishWord": "To find"
+                },
+                {
+                    "frenchWord": "Être",
+                    "englishWord": "To be"
+                },
+                {
+                    "frenchWord": "Heureux",
+                    "englishWord": "Happy"
+                },
+                {
+                    "frenchWord": "Encore",
+                    "englishWord": "Again/Still"
+                },
+                {
+                    "frenchWord": "Fumer",
+                    "englishWord": "To smoke"
+                },
+                {
+                    "frenchWord": "Une",
+                    "englishWord": "A/One (feminine)"
+                },
+                {
+                    "frenchWord": "Inviter",
+                    "englishWord": "To invite"
+                },
+                {
+                    "frenchWord": "Travailler",
+                    "englishWord": "To work"
+                },
+                {
+                    "frenchWord": "Ça",
+                    "englishWord": "That (informal)"
+                },
+                {
+                    "frenchWord": "Tes",
+                    "englishWord": "Your (informal, plural)"
+                },
+                {
+                    "frenchWord": "Mourir",
+                    "englishWord": "To die"
+                },
+                {
+                    "frenchWord": "Orange",
+                    "englishWord": "Orange"
+                },
+                {
+                    "frenchWord": "Content",
+                    "englishWord": "Content/Happy (masculine)"
+                },
+                {
+                    "frenchWord": "Sa",
+                    "englishWord": "His/Her (feminine singular)"
+                },
+                {
+                    "frenchWord": "Envers",
+                    "englishWord": "Towards"
+                },
+                {
+                    "frenchWord": "Carotte",
+                    "englishWord": "Carrot"
+                },
+                {
+                    "frenchWord": "Ton",
+                    "englishWord": "Your (masculine singular)"
+                },
+                {
+                    "frenchWord": "Que",
+                    "englishWord": "What"
+                },
+                {
+                    "frenchWord": "Plein",
+                    "englishWord": "Full (masculine)"
+                },
+                {
+                    "frenchWord": "Comprendre",
+                    "englishWord": "To understand"
+                },
+                {
+                    "frenchWord": "Nos",
+                    "englishWord": "Our (plural)"
+                },
+                {
+                    "frenchWord": "Quelques",
+                    "englishWord": "Some (plural)"
+                },
+                {
+                    "frenchWord": "Ce",
+                    "englishWord": "This/That (masculine)"
+                },
+                {
+                    "frenchWord": "Fatigué",
+                    "englishWord": "Tired (masculine)"
+                },
+                {
+                    "frenchWord": "Répondre",
+                    "englishWord": "To answer"
+                },
+                {
+                    "frenchWord": "Adorer",
+                    "englishWord": "To adore"
+                },
+                {
+                    "frenchWord": "Poulet",
+                    "englishWord": "Chicken"
+                },
+                {
+                    "frenchWord": "Fatiguée",
+                    "englishWord": "Tired (feminine)"
+                },
+                {
+                    "frenchWord": "Acheminer",
+                    "englishWord": "To route/forward"
+                }
+            ]
+        },
+        {
+            "setNumber": 18,
+            "words": [
+                {
+                    "frenchWord": "Fort",
+                    "englishWord": "Strong (masculine)"
+                },
+                {
+                    "frenchWord": "Tomate",
+                    "englishWord": "Tomato"
+                },
+                {
+                    "frenchWord": "Viande",
+                    "englishWord": "Meat"
+                },
+                {
+                    "frenchWord": "Heureux",
+                    "englishWord": "Happy (masculine)"
+                },
+                {
+                    "frenchWord": "Avec",
+                    "englishWord": "With"
+                },
+                {
+                    "frenchWord": "Comprendre",
+                    "englishWord": "To understand"
+                },
+                {
+                    "frenchWord": "Avant",
+                    "englishWord": "Before"
+                },
+                {
+                    "frenchWord": "Voyager",
+                    "englishWord": "To travel"
+                },
+                {
+                    "frenchWord": "La",
+                    "englishWord": "The (feminine)"
+                },
+                {
+                    "frenchWord": "Nouvelle",
+                    "englishWord": "New (feminine)"
+                },
+                {
+                    "frenchWord": "Vivre",
+                    "englishWord": "To live"
+                },
+                {
+                    "frenchWord": "Discuter",
+                    "englishWord": "To discuss"
+                },
+                {
+                    "frenchWord": "Attendre",
+                    "englishWord": "To wait"
+                },
+                {
+                    "frenchWord": "Vieux",
+                    "englishWord": "Old"
+                },
+                {
+                    "frenchWord": "Famille",
+                    "englishWord": "Family"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Petit",
+                    "englishWord": "Small"
+                },
+                {
+                    "frenchWord": "Pourquoi",
+                    "englishWord": "Why"
+                },
+                {
+                    "frenchWord": "Stylo",
+                    "englishWord": "Pen"
+                },
+                {
+                    "frenchWord": "Écouter",
+                    "englishWord": "To listen"
+                },
+                {
+                    "frenchWord": "Pleurer",
+                    "englishWord": "To cry"
+                },
+                {
+                    "frenchWord": "Distinguer",
+                    "englishWord": "To distinguish"
+                },
+                {
+                    "frenchWord": "Content",
+                    "englishWord": "Happy/Content (masculine)"
+                },
+                {
+                    "frenchWord": "Clair",
+                    "englishWord": "Clear/Bright (masculine)"
+                },
+                {
+                    "frenchWord": "Léger",
+                    "englishWord": "Light (masculine)"
+                },
+                {
+                    "frenchWord": "Difficile",
+                    "englishWord": "Difficult"
+                },
+                {
+                    "frenchWord": "Apprendre",
+                    "englishWord": "To learn"
+                },
+                {
+                    "frenchWord": "Mais",
+                    "englishWord": "But"
+                },
+                {
+                    "frenchWord": "Apporter",
+                    "englishWord": "To bring (something)"
+                },
+                {
+                    "frenchWord": "Recommencer",
+                    "englishWord": "To restart"
+                },
+                {
+                    "frenchWord": "Surveiller",
+                    "englishWord": "To watch over"
+                },
+                {
+                    "frenchWord": "Détester",
+                    "englishWord": "To hate"
+                },
+                {
+                    "frenchWord": "Beurre",
+                    "englishWord": "Butter"
+                },
+                {
+                    "frenchWord": "Applaudir",
+                    "englishWord": "To applaud"
+                },
+                {
+                    "frenchWord": "Notre",
+                    "englishWord": "Our (singular)"
+                },
+                {
+                    "frenchWord": "Heureux",
+                    "englishWord": "Happy (masculine)"
+                },
+                {
+                    "frenchWord": "Donc",
+                    "englishWord": "Therefore"
+                },
+                {
+                    "frenchWord": "Pleurer",
+                    "englishWord": "To cry"
+                },
+                {
+                    "frenchWord": "Décrire",
+                    "englishWord": "To describe"
+                },
+                {
+                    "frenchWord": "Ton",
+                    "englishWord": "Your (masculine, informal)"
+                },
+                {
+                    "frenchWord": "Meuble",
+                    "englishWord": "Furniture"
+                },
+                {
+                    "frenchWord": "Entrer",
+                    "englishWord": "To enter"
+                },
+                {
+                    "frenchWord": "Sortir",
+                    "englishWord": "To go out"
+                },
+                {
+                    "frenchWord": "Rarement",
+                    "englishWord": "Rarely"
+                },
+                {
+                    "frenchWord": "Les",
+                    "englishWord": "The (plural)"
+                },
+                {
+                    "frenchWord": "Certain",
+                    "englishWord": "Certain (masculine singular)"
+                },
+                {
+                    "frenchWord": "Cher",
+                    "englishWord": "Expensive (masculine)"
+                }
+            ]
+        },
+        {
+            "setNumber": 19,
+            "words": [
+                {
+                    "frenchWord": "Pendant",
+                    "englishWord": "During"
+                },
+                {
+                    "frenchWord": "Celle",
+                    "englishWord": "That one (feminine)"
+                },
+                {
+                    "frenchWord": "Merci",
+                    "englishWord": "Thank you"
+                },
+                {
+                    "frenchWord": "Possible",
+                    "englishWord": "Possible"
+                },
+                {
+                    "frenchWord": "Café",
+                    "englishWord": "Coffee"
+                },
+                {
+                    "frenchWord": "Boire",
+                    "englishWord": "To drink"
+                },
+                {
+                    "frenchWord": "Loin de",
+                    "englishWord": "Far from"
+                },
+                {
+                    "frenchWord": "Vos",
+                    "englishWord": "Your (formal/plural, plural)"
+                },
+                {
+                    "frenchWord": "Heureuse",
+                    "englishWord": "Happy (feminine)"
+                },
+                {
+                    "frenchWord": "Confirmer",
+                    "englishWord": "To confirm"
+                },
+                {
+                    "frenchWord": "En",
+                    "englishWord": "In"
+                },
+                {
+                    "frenchWord": "Oignon",
+                    "englishWord": "Onion"
+                },
+                {
+                    "frenchWord": "Remarquer",
+                    "englishWord": "To notice"
+                },
+                {
+                    "frenchWord": "Avoir",
+                    "englishWord": "To have"
+                },
+                {
+                    "frenchWord": "Cependant",
+                    "englishWord": "However"
+                },
+                {
+                    "frenchWord": "Gaspiller",
+                    "englishWord": "To waste"
+                },
+                {
+                    "frenchWord": "Imaginer",
+                    "englishWord": "To imagine"
+                },
+                {
+                    "frenchWord": "Plus",
+                    "englishWord": "More"
+                },
+                {
+                    "frenchWord": "Écrire",
+                    "englishWord": "To write"
+                },
+                {
+                    "frenchWord": "Ami",
+                    "englishWord": "Friend (masculine)"
+                },
+                {
+                    "frenchWord": "Lent",
+                    "englishWord": "Slow"
+                },
+                {
+                    "frenchWord": "Blanc",
+                    "englishWord": "White"
+                },
+                {
+                    "frenchWord": "Parce que",
+                    "englishWord": "Because"
+                },
+                {
+                    "frenchWord": "Cuisiner",
+                    "englishWord": "To cook"
+                },
+                {
+                    "frenchWord": "Conduire",
+                    "englishWord": "To drive"
+                },
+                {
+                    "frenchWord": "Refuser",
+                    "englishWord": "To refuse"
+                },
+                {
+                    "frenchWord": "Ouvrir",
+                    "englishWord": "To open"
+                },
+                {
+                    "frenchWord": "Réclamer",
+                    "englishWord": "To claim/demand"
+                },
+                {
+                    "frenchWord": "Des",
+                    "englishWord": "Some (plural)"
+                },
+                {
+                    "frenchWord": "Mes",
+                    "englishWord": "My (plural)"
+                },
+                {
+                    "frenchWord": "Fournir",
+                    "englishWord": "To provide"
+                },
+                {
+                    "frenchWord": "Rentrer",
+                    "englishWord": "To return (home)"
+                },
+                {
+                    "frenchWord": "Respecter",
+                    "englishWord": "To respect"
+                },
+                {
+                    "frenchWord": "Déjà",
+                    "englishWord": "Already"
+                },
+                {
+                    "frenchWord": "Partout",
+                    "englishWord": "Everywhere"
+                },
+                {
+                    "frenchWord": "Danser",
+                    "englishWord": "To dance"
+                },
+                {
+                    "frenchWord": "Vous",
+                    "englishWord": "You (formal/plural)"
+                },
+                {
+                    "frenchWord": "Parler",
+                    "englishWord": "To speak"
+                },
+                {
+                    "frenchWord": "Commencer",
+                    "englishWord": "To start"
+                },
+                {
+                    "frenchWord": "Couper",
+                    "englishWord": "To cut"
+                },
+                {
+                    "frenchWord": "Danser",
+                    "englishWord": "To dance"
+                },
+                {
+                    "frenchWord": "Tout",
+                    "englishWord": "Everything"
+                },
+                {
+                    "frenchWord": "Monter",
+                    "englishWord": "To go up"
+                },
+                {
+                    "frenchWord": "Changer",
+                    "englishWord": "To change"
+                },
+                {
+                    "frenchWord": "Devoir",
+                    "englishWord": "To have to"
+                },
+                {
+                    "frenchWord": "Oser",
+                    "englishWord": "To dare"
+                },
+                {
+                    "frenchWord": "Un",
+                    "englishWord": "A/An (masculine)"
+                }
+            ]
+        },
+        {
+            "setNumber": 20,
+            "words": [
+                {
+                    "frenchWord": "Rassembler",
+                    "englishWord": "To assemble"
+                },
+                {
+                    "frenchWord": "Donc",
+                    "englishWord": "Therefore"
+                },
+                {
+                    "frenchWord": "Thé",
+                    "englishWord": "Tea"
+                },
+                {
+                    "frenchWord": "Reprocher",
+                    "englishWord": "To reproach"
+                },
+                {
+                    "frenchWord": "Chez",
+                    "englishWord": "At the house of"
+                },
+                {
+                    "frenchWord": "Interroger",
+                    "englishWord": "To question"
+                },
+                {
+                    "frenchWord": "Chose",
+                    "englishWord": "Thing"
+                },
+                {
+                    "frenchWord": "Tant que",
+                    "englishWord": "As long as"
+                },
+                {
+                    "frenchWord": "Salon",
+                    "englishWord": "Living room"
+                },
+                {
+                    "frenchWord": "Chaud",
+                    "englishWord": "Hot"
+                },
+                {
+                    "frenchWord": "Prendre",
+                    "englishWord": "To take"
+                },
+                {
+                    "frenchWord": "Regarder",
+                    "englishWord": "To watch"
+                },
+                {
+                    "frenchWord": "Malgré",
+                    "englishWord": "Despite"
+                },
+                {
+                    "frenchWord": "Et",
+                    "englishWord": "And"
+                },
+                {
+                    "frenchWord": "Éclairer",
+                    "englishWord": "To light up"
+                },
+                {
+                    "frenchWord": "Derrière",
+                    "englishWord": "Behind"
+                },
+                {
+                    "frenchWord": "Voyager",
+                    "englishWord": "To travel"
+                },
+                {
+                    "frenchWord": "Vous",
+                    "englishWord": "You (formal/plural)"
+                },
+                {
+                    "frenchWord": "Celles",
+                    "englishWord": "Those (feminine)"
+                },
+                {
+                    "frenchWord": "Commencer",
+                    "englishWord": "To start"
+                },
+                {
+                    "frenchWord": "Deviner",
+                    "englishWord": "To guess"
+                },
+                {
+                    "frenchWord": "Mauvais",
+                    "englishWord": "Bad (masculine)"
+                },
+                {
+                    "frenchWord": "Entrer",
+                    "englishWord": "To enter"
+                },
+                {
+                    "frenchWord": "Ils",
+                    "englishWord": "They (masculine)"
+                },
+                {
+                    "frenchWord": "Les",
+                    "englishWord": "The (plural)"
+                },
+                {
+                    "frenchWord": "Raconter",
+                    "englishWord": "To tell (a story)"
+                },
+                {
+                    "frenchWord": "Peu",
+                    "englishWord": "A little"
+                },
+                {
+                    "frenchWord": "Jurer",
+                    "englishWord": "To swear"
+                },
+                {
+                    "frenchWord": "Banane",
+                    "englishWord": "Banana"
+                },
+                {
+                    "frenchWord": "Car",
+                    "englishWord": "Because"
+                },
+                {
+                    "frenchWord": "Elles",
+                    "englishWord": "They (feminine plural)"
+                },
+                {
+                    "frenchWord": "Ce",
+                    "englishWord": "This/That (masculine singular)"
+                },
+                {
+                    "frenchWord": "Renforcer",
+                    "englishWord": "To strengthen"
+                },
+                {
+                    "frenchWord": "Ces",
+                    "englishWord": "These/Those (plural)"
+                },
+                {
+                    "frenchWord": "Grand",
+                    "englishWord": "Big"
+                },
+                {
+                    "frenchWord": "Parce que",
+                    "englishWord": "Because"
+                },
+                {
+                    "frenchWord": "Arriver",
+                    "englishWord": "To arrive"
+                },
+                {
+                    "frenchWord": "Marcher",
+                    "englishWord": "To walk"
+                },
+                {
+                    "frenchWord": "Observer",
+                    "englishWord": "To observe"
+                },
+                {
+                    "frenchWord": "Quand",
+                    "englishWord": "When"
+                },
+                {
+                    "frenchWord": "Dessus",
+                    "englishWord": "On top"
+                },
+                {
+                    "frenchWord": "Se reposer",
+                    "englishWord": "To rest"
+                },
+                {
+                    "frenchWord": "Lent",
+                    "englishWord": "Slow"
+                },
+                {
+                    "frenchWord": "Lire",
+                    "englishWord": "To read"
+                },
+                {
+                    "frenchWord": "Continuer",
+                    "englishWord": "To continue"
+                },
+                {
+                    "frenchWord": "Aller",
+                    "englishWord": "To go"
+                },
+                {
+                    "frenchWord": "Sous",
+                    "englishWord": "Under"
+                },
+                {
+                    "frenchWord": "Première",
+                    "englishWord": "First (feminine singular)"
+                },
+                {
+                    "frenchWord": "Encadrer",
+                    "englishWord": "To frame"
+                },
+                {
+                    "frenchWord": "Écouter",
+                    "englishWord": "To listen"
+                },
+                {
+                    "frenchWord": "Dormir",
+                    "englishWord": "To sleep"
+                },
+                {
+                    "frenchWord": "Cette",
+                    "englishWord": "This/That (feminine singular)"
+                },
+                {
+                    "frenchWord": "Devant",
+                    "englishWord": "In front of"
+                }
+            ]
+        }
+    ]
+}
